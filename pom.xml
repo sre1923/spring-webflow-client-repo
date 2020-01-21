@@ -19,7 +19,6 @@
       <distribution>repo</distribution>
     </license>
   </licenses>
-
   <repositories>
     <repository>
       <id>vt-middleware</id>
